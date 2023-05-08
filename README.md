@@ -1,0 +1,2 @@
+# rgodimiatrader
+Trading IA
