@@ -1,4 +1,4 @@
-#Rgodim Finance Automated Trading with IA
+Rgodim Finance Automated Trading with IA
 Este es un proyecto de trading automatizado para el mercado financiero que utiliza inteligencia artificial para tomar decisiones de inversión. El objetivo de este proyecto es crear un sistema que pueda aprender y mejorar a medida que se entrena con datos de mercado y noticias financieras.
 
 Datos y fuentes
